@@ -1,0 +1,386 @@
+﻿# MenuSystem English translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: MenuSystem\n"
+"POT-Creation-Date: 2026-02-13 01:37\n"
+"PO-Revision-Date: 2026-02-13 01:37\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	AAAF0DAE49E565F245F79383E4E87137
+#. SourceLocation:	/CLM_MenuSystem/Blueprints/Data/DT_SoundConfigs.DT_SoundConfigs.Music.SoundClassName_13_D3D035674AF3AA10E5B3D6B39789FE65
+#: /CLM_MenuSystem/Blueprints/Data/DT_SoundConfigs.DT_SoundConfigs.Music.SoundClassName_13_D3D035674AF3AA10E5B3D6B39789FE65
+msgctxt ",AAAF0DAE49E565F245F79383E4E87137"
+msgid "Music"
+msgstr "Music"
+
+#. Key:	638366064062ABF998319DA20B32CFCF
+#. SourceLocation:	/CLM_MenuSystem/Blueprints/Data/DT_SoundConfigs.DT_SoundConfigs.Overall.SoundClassName_13_D3D035674AF3AA10E5B3D6B39789FE65
+#: /CLM_MenuSystem/Blueprints/Data/DT_SoundConfigs.DT_SoundConfigs.Overall.SoundClassName_13_D3D035674AF3AA10E5B3D6B39789FE65
+msgctxt ",638366064062ABF998319DA20B32CFCF"
+msgid "Overall"
+msgstr "Overall"
+
+#. Key:	1B6BA9794E77E95EAF0AE3AC6D733075
+#. SourceLocation:	/CLM_MenuSystem/Blueprints/Data/DT_SoundConfigs.DT_SoundConfigs.Voice.SoundClassName_13_D3D035674AF3AA10E5B3D6B39789FE65
+#: /CLM_MenuSystem/Blueprints/Data/DT_SoundConfigs.DT_SoundConfigs.Voice.SoundClassName_13_D3D035674AF3AA10E5B3D6B39789FE65
+msgctxt ",1B6BA9794E77E95EAF0AE3AC6D733075"
+msgid "Voice"
+msgstr "Voice"
+
+#. Key:	898A9B83425A223F4436DE9BC0BA6C6C
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_0.DisplayCategory
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_0.DisplayCategory
+msgctxt ",898A9B83425A223F4436DE9BC0BA6C6C"
+msgid "Movement"
+msgstr "Movement"
+
+#. Key:	1544E48A48AA8A8A7ED690864E035A09
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_0.DisplayName
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_0.DisplayName
+msgctxt ",1544E48A48AA8A8A7ED690864E035A09"
+msgid "Move Forward"
+msgstr "Move Forward"
+
+#. Key:	10B0B95A4D0C19CC8BA9DEA17FE70308
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_1.DisplayCategory
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_1.DisplayCategory
+msgctxt ",10B0B95A4D0C19CC8BA9DEA17FE70308"
+msgid "Movement"
+msgstr "Movement"
+
+#. Key:	42482866481D9C9E57B28F88FC955A8F
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_1.DisplayName
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_1.DisplayName
+msgctxt ",42482866481D9C9E57B28F88FC955A8F"
+msgid "Move Backward"
+msgstr "Move Backward"
+
+#. Key:	68CC571C4520C5651F8F2EAD0DE4BF7F
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_2.DisplayCategory
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_2.DisplayCategory
+msgctxt ",68CC571C4520C5651F8F2EAD0DE4BF7F"
+msgid "Movement"
+msgstr "Movement"
+
+#. Key:	DA458A04417289C103F92D9003F2BA80
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_2.DisplayName
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_2.DisplayName
+msgctxt ",DA458A04417289C103F92D9003F2BA80"
+msgid "Move Left"
+msgstr "Move Left"
+
+#. Key:	47334EB74E6B6D57A0FAA4840EC594E6
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_3.DisplayCategory
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_3.DisplayCategory
+msgctxt ",47334EB74E6B6D57A0FAA4840EC594E6"
+msgid "Movement"
+msgstr "Movement"
+
+#. Key:	B6E446AB4D1B73669BDEFA8A5C6224FB
+#. SourceLocation:	/CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_3.DisplayName
+#: /CLM_MenuSystem/Inputs/IMC_UIMockup.IMC_UIMockup:PlayerMappableKeySettings_3.DisplayName
+msgctxt ",B6E446AB4D1B73669BDEFA8A5C6224FB"
+msgid "Move Right"
+msgstr "Move Right"
+
+#. Key:	8EC183674D928DCD64AB6CA1FC9941C4
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_MainMenuButton.Default__WB_MainMenuButton_C.In Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_MainMenuButton.Default__WB_MainMenuButton_C.In Text
+msgctxt ",8EC183674D928DCD64AB6CA1FC9941C4"
+msgid "Main Menu Button"
+msgstr "Main Menu Button"
+
+#. Key:	EDEDD6F4482111B941E0AE864BA76F27
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_MainMenuOptionCycle.Default__WB_MainMenuOptionCycle_C.In Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_MainMenuOptionCycle.Default__WB_MainMenuOptionCycle_C.In Text
+msgctxt ",EDEDD6F4482111B941E0AE864BA76F27"
+msgid "Main Menu Button"
+msgstr "Main Menu Button"
+
+#. Key:	15D3C9634E0FF0F5893D2683D4094486
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.Default__WB_OptionCycle_C.OptionNameText
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.Default__WB_OptionCycle_C.OptionNameText
+msgctxt ",15D3C9634E0FF0F5893D2683D4094486"
+msgid "Option Name"
+msgstr "Option Name"
+
+#. Key:	37EE043C4E94EED19CEE63B70CF84AFE
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.Default__WB_OptionCycle_C.OptionsArray(0).OptionsArray
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.Default__WB_OptionCycle_C.OptionsArray(0).OptionsArray
+msgctxt ",37EE043C4E94EED19CEE63B70CF84AFE"
+msgid "First"
+msgstr "First"
+
+#. Key:	315E4C904DA071947EA787A63630B2DC
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.Default__WB_OptionCycle_C.OptionsArray(1).OptionsArray
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.Default__WB_OptionCycle_C.OptionsArray(1).OptionsArray
+msgctxt ",315E4C904DA071947EA787A63630B2DC"
+msgid "Second"
+msgstr "Second"
+
+#. Key:	73BD3C164774850A14442683BDF15DC7
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.WB_OptionCycle_C:WidgetTree.BT_NextOption.In Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.WB_OptionCycle_C:WidgetTree.BT_NextOption.In Text
+msgctxt ",73BD3C164774850A14442683BDF15DC7"
+msgid ">"
+msgstr ">"
+
+#. Key:	ED5FFC9A41CC044DA262AB9857C3323C
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.WB_OptionCycle_C:WidgetTree.BT_PrevOption.In Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.WB_OptionCycle_C:WidgetTree.BT_PrevOption.In Text
+msgctxt ",ED5FFC9A41CC044DA262AB9857C3323C"
+msgid "<"
+msgstr "<"
+
+#. Key:	TextBlockDefaultValue
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.WB_OptionCycle_C:WidgetTree.CT_OptionBoxText.Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionCycle.WB_OptionCycle_C:WidgetTree.CT_OptionBoxText.Text
+msgctxt "UMG,TextBlockDefaultValue"
+msgid "Text Block"
+msgstr "Text Block"
+
+#. Key:	FDA39CC94C490FB95AC0309567938357
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionKey.Default__WB_OptionKey_C.Input Name
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionKey.Default__WB_OptionKey_C.Input Name
+msgctxt ",FDA39CC94C490FB95AC0309567938357"
+msgid "Input Name"
+msgstr "Input Name"
+
+#. Key:	506C65D344758810B9151887A101050A
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionKey.WB_OptionKey_C:ExecuteUbergraph_WB_OptionKey [Script Bytecode]
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionKey.WB_OptionKey_C:ExecuteUbergraph_WB_OptionKey [Script Bytecode]
+msgctxt ",506C65D344758810B9151887A101050A"
+msgid "Press Any Key"
+msgstr "Press Any Key"
+
+#. Key:	6E8A4DB34F14242D33BD26ABA2E02597
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionKey.WB_OptionKey_C:WidgetTree.CT_OptionName.Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionKey.WB_OptionKey_C:WidgetTree.CT_OptionName.Text
+msgctxt ",6E8A4DB34F14242D33BD26ABA2E02597"
+msgid "Option Name"
+msgstr "Option Name"
+
+#. Key:	9394F0824EAC27C0390BE08AFA7E45A4
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionRotator.WB_OptionRotator_C:WidgetTree.MyText.Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_OptionRotator.WB_OptionRotator_C:WidgetTree.MyText.Text
+msgctxt ",9394F0824EAC27C0390BE08AFA7E45A4"
+msgid "{Option}"
+msgstr "{Option}"
+
+#. Key:	2A36DD6C44550E324CB94C958B8B90A0
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_Slider.Default__WB_Slider_C.OptionName
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_Slider.Default__WB_Slider_C.OptionName
+msgctxt ",2A36DD6C44550E324CB94C958B8B90A0"
+msgid "Option Name"
+msgstr "Option Name"
+
+#. Key:	B937EA4F474678586718B0BBF0C1AD8C
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_Slider.WB_Slider_C:WidgetTree.CT_OptionName.Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_Slider.WB_Slider_C:WidgetTree.CT_OptionName.Text
+msgctxt ",B937EA4F474678586718B0BBF0C1AD8C"
+msgid "Option Name"
+msgstr "Option Name"
+
+#. Key:	176887B649C10CC8DA31839B79179833
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/SubWidgets/WB_Slider.WB_Slider_C:WidgetTree.Text_Slider_Value.Text
+#: /CLM_MenuSystem/UI/Widgets/SubWidgets/WB_Slider.WB_Slider_C:WidgetTree.Text_Slider_Value.Text
+msgctxt ",176887B649C10CC8DA31839B79179833"
+msgid "50"
+msgstr "50"
+
+#. Key:	8A33D2F541207ED4D4D6099A6E729A1D
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_AudioOptions.Default__WB_AudioOptions_C.AudioDeviceLabelName
+#: /CLM_MenuSystem/UI/Widgets/WB_AudioOptions.Default__WB_AudioOptions_C.AudioDeviceLabelName
+msgctxt ",8A33D2F541207ED4D4D6099A6E729A1D"
+msgid "Audio Device"
+msgstr "Audio Device"
+
+#. Key:	8B0FCAC548FF8E1D8A42EFBFD98E3C89
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_AudioOptions.Default__WB_AudioOptions_C.TextOptionPanelName
+#: /CLM_MenuSystem/UI/Widgets/WB_AudioOptions.Default__WB_AudioOptions_C.TextOptionPanelName
+msgctxt ",8B0FCAC548FF8E1D8A42EFBFD98E3C89"
+msgid "Audio Options"
+msgstr "Audio Options"
+
+#. Key:	B03908304B3E6DF61226E4BDC2197567
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_ConfirmationDialog.WB_ConfirmationDialog_C:WidgetTree.CT_Message.Text
+#: /CLM_MenuSystem/UI/Widgets/WB_ConfirmationDialog.WB_ConfirmationDialog_C:WidgetTree.CT_Message.Text
+msgctxt ",B03908304B3E6DF61226E4BDC2197567"
+msgid "Dialogue Message"
+msgstr "Dialogue Message"
+
+#. Key:	FF6F9A5E48A83F75F2BDE3987E23946A
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_ConfirmationDialog.WB_ConfirmationDialog_C:WidgetTree.DB_No.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_ConfirmationDialog.WB_ConfirmationDialog_C:WidgetTree.DB_No.In Text
+msgctxt ",FF6F9A5E48A83F75F2BDE3987E23946A"
+msgid "No"
+msgstr "No"
+
+#. Key:	59F0462540B78473EED6B1B3FC16F946
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_ConfirmationDialog.WB_ConfirmationDialog_C:WidgetTree.DB_Yes.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_ConfirmationDialog.WB_ConfirmationDialog_C:WidgetTree.DB_Yes.In Text
+msgctxt ",59F0462540B78473EED6B1B3FC16F946"
+msgid "Yes"
+msgstr "Yes"
+
+#. Key:	47B8DB6B4D338C081C6454A644D091D2
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.Default__WB_DisplayOptions_C.TextOptionPanelName
+#: /CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.Default__WB_DisplayOptions_C.TextOptionPanelName
+msgctxt ",47B8DB6B4D338C081C6454A644D091D2"
+msgid "Display Option"
+msgstr "Display Option"
+
+#. Key:	EACA26CC4E9C3E3F999FE38B44547E30
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeMenuLanguages [Script Bytecode]
+#: /CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeMenuLanguages [Script Bytecode]
+msgctxt ",EACA26CC4E9C3E3F999FE38B44547E30"
+msgid "Menu Language"
+msgstr "Menu Language"
+
+#. Key:	4868C4844F41C77665069AB952775594
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeResolutions [Script Bytecode]
+#: /CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeResolutions [Script Bytecode]
+msgctxt ",4868C4844F41C77665069AB952775594"
+msgid "Screen Resolution"
+msgstr "Screen Resolution"
+
+#. Key:	873880AD45421700A0E720B49733A0EB
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeResolutions [Script Bytecode]
+#: /CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeResolutions [Script Bytecode]
+msgctxt ",873880AD45421700A0E720B49733A0EB"
+msgid "{X}x{Y}"
+msgstr "{X}x{Y}"
+
+#. Key:	98D669844E9E7E956610B3B3EBF0A303
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeWindowModes [Script Bytecode]
+#: /CLM_MenuSystem/UI/Widgets/WB_DisplayOptions.WB_DisplayOptions_C:InitializeWindowModes [Script Bytecode]
+msgctxt ",98D669844E9E7E956610B3B3EBF0A303"
+msgid "Window Mode"
+msgstr "Window Mode"
+
+#. Key:	8415C3BF47C9B1BDB7177A8AC3EDF32E
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.Default__WB_MainMenu_C.Quit_Message
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.Default__WB_MainMenu_C.Quit_Message
+msgctxt ",8415C3BF47C9B1BDB7177A8AC3EDF32E"
+msgid "Are you sure you want to Quit?"
+msgstr "Are you sure you want to Quit?"
+
+#. Key:	81ED0C0F4316FFBE79D8B6B966107083
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.CT_Title.Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.CT_Title.Text
+msgctxt ",81ED0C0F4316FFBE79D8B6B966107083"
+msgid "Exposure Therapy"
+msgstr "Exposure Therapy"
+
+#. Key:	8BFC65C04872FFE422DA6C8327953EB1
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Audio.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Audio.In Text
+msgctxt ",8BFC65C04872FFE422DA6C8327953EB1"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	FBDCD0DF402EF68BD8F9BE9077F8E0D1
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Back.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Back.In Text
+msgctxt ",FBDCD0DF402EF68BD8F9BE9077F8E0D1"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	616A56124AE1B47D9992ACB169EDFEDA
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Controls.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Controls.In Text
+msgctxt ",616A56124AE1B47D9992ACB169EDFEDA"
+msgid "Controls"
+msgstr "Controls"
+
+#. Key:	BF10F08F4DB5800C36AFD799DE2FC026
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Display.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Display.In Text
+msgctxt ",BF10F08F4DB5800C36AFD799DE2FC026"
+msgid "Display"
+msgstr "Display"
+
+#. Key:	7C52DA8441ECB0E8E930E58978F87AF4
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Quit.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Quit.In Text
+msgctxt ",7C52DA8441ECB0E8E930E58978F87AF4"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	1825F13B47C1B195C980349DD3D66C0B
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Resume.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Resume.In Text
+msgctxt ",1825F13B47C1B195C980349DD3D66C0B"
+msgid "Resume"
+msgstr "Resume"
+
+#. Key:	D8C84BCF44C5A288C941E2BC07C6A3C1
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Settings.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Settings.In Text
+msgctxt ",D8C84BCF44C5A288C941E2BC07C6A3C1"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	557ECCB0426FD2A0A39EA0801BC63ADE
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Start.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.MB_Start.In Text
+msgctxt ",557ECCB0426FD2A0A39EA0801BC63ADE"
+msgid "Start"
+msgstr "Start"
+
+#. Key:	900F57C44027D7970D0469917D301985
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.WB_ControllsOptions.TextOptionPanelName
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.WB_ControllsOptions.TextOptionPanelName
+msgctxt ",900F57C44027D7970D0469917D301985"
+msgid "Controls Options"
+msgstr "Controls Options"
+
+#. Key:	245C7CEC4095E39BCDD926BF6D941007
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.WB_DisplayOptions.TextOptionPanelName
+#: /CLM_MenuSystem/UI/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.WB_DisplayOptions.TextOptionPanelName
+msgctxt ",245C7CEC4095E39BCDD926BF6D941007"
+msgid "Display Options"
+msgstr "Display Options"
+
+#. Key:	724D49CC437AA988E9BC1BAB642BC301
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_OptionPanel.Default__WB_OptionPanel_C.TextOptionPanelName
+#: /CLM_MenuSystem/UI/Widgets/WB_OptionPanel.Default__WB_OptionPanel_C.TextOptionPanelName
+msgctxt ",724D49CC437AA988E9BC1BAB642BC301"
+msgid "Option Panel Name"
+msgstr "Option Panel Name"
+
+#. Key:	CF4F2BAB497CC98AFCC19AB2EB2955B5
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.AB_Apply.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.AB_Apply.In Text
+msgctxt ",CF4F2BAB497CC98AFCC19AB2EB2955B5"
+msgid "Apply"
+msgstr "Apply"
+
+#. Key:	C541056846BA3081387087A69F432D4A
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.AB_Back.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.AB_Back.In Text
+msgctxt ",C541056846BA3081387087A69F432D4A"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	8DAE4A65469661B3AAB291A928B5561E
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.AB_Reset.In Text
+#: /CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.AB_Reset.In Text
+msgctxt ",8DAE4A65469661B3AAB291A928B5561E"
+msgid "Reset"
+msgstr "Reset"
+
+#. Key:	519BEC134A3A3EFC38206FB76CFC777C
+#. SourceLocation:	/CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.TextPanelName.Text
+#: /CLM_MenuSystem/UI/Widgets/WB_OptionPanel.WB_OptionPanel_C:WidgetTree.TextPanelName.Text
+msgctxt ",519BEC134A3A3EFC38206FB76CFC777C"
+msgid "Option Category"
+msgstr "Option Category"
+
